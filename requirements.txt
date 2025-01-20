@@ -1,1 +1,8 @@
 streamlit
+google-generativeai 
+requests 
+matplotlib 
+nltk 
+wordcloud 
+fpdf 
+langdetect
